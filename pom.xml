@@ -11,7 +11,7 @@
 	<properties>
 		<!-- Spring 버전 설정 -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring-version>4.3.27.RELEASE</spring-version>
+		<spring-version>5.3.18</spring-version>
 		<!-- Jackson(Jason) 버전 설정 -->
 		<jackson2.version>2.10.2</jackson2.version>
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
