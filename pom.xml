@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring-version>4.3.27.RELEASE</spring-version>
 		<!-- Jackson(Jason) 버전 설정 -->
-		<jackson2.version>2.10.2</jackson2.version>
+		<jackson2.version>2.13.4.1</jackson2.version>
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
 	</properties>
